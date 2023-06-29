@@ -16,4 +16,9 @@ Más abajo te dejo mi LinkedIn:
 
 
 
-¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. ¡No dudes en explorar mi repositorio y dejar una estrella ⭐
+¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles. ¡No dudes en explorar mi repositorio y dejar una estrella ⭐!
+
+
+
+![Animated GIF](https://media.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif)
+
