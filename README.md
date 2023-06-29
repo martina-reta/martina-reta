@@ -1,6 +1,6 @@
 # ¡Bienvenido/a a mi perfil de GitHub! 👋
 
-## Sobre mí
+## ⚡ Sobre mí ⚡
 Soy Martina, una apasionada de la programación, la tecnología y los videojuegos. Mi objetivo es aprender constantemente y contribuir a proyectos emocionantes. 💻🚀
 Actualmente, me estoy formando en un bootcamp de Java y estoy aprendiendo de manera intensiva para fortalecer mis habilidades en este lenguaje de programación. 👾
 
