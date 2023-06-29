@@ -10,8 +10,9 @@ Actualmente, me estoy formando en un bootcamp de Java y estoy aprendiendo de man
 ## Contacto 📫
 Te dejo mis contactos por cualquier consulta:
 
-[![Icono de LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png)](https://www.linkedin.com/in/martina-reta-7bb18b1b2/) <a href="mailto:martuh8v@gmail.com">
-  <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png" alt="Icono de correo electrónico">
+[![Icono de LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png)](https://www.linkedin.com/in/martina-reta-7bb18b1b2/)       [![Icono de correo electrónico](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/email-48x48.png)](mailto:martuh8v@gmail.com) martuh8v@gmail.com
+
+
 </a>
 
 
