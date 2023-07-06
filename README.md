@@ -15,4 +15,4 @@ Más abajo te dejo mi LinkedIn:
 <div align="center">
   <img src="https://media.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" alt="Animated GIF">
 </div>
-
+<img src="https://i.pinimg.com/originals/1a/06/f2/1a06f26e729dece96fab3c436119cde8.png" width="15" height="20">
