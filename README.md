@@ -1,17 +1,21 @@
-# ¡Bienvenido/a a mi perfil de GitHub! 👋
+<h1 align="center"> ¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
 
-## ⚡ Sobre mí ⚡
-Soy Martina, fan de la programación, la tecnología y los videojuegos. Mi meta es seguir aprendiendo y aportar mi conocimiento a futuros proyectos. En este momento estoy metida en un bootcamp de Java para fortalecer mis habilidades en este lenguaje de programación. Mi objetivo es dominarlo y aplicarlo en desafíos apasionantes. 👾
+<h2 align="center">⚡ Sobre mí ⚡ </h2>
+<p align="center">  Soy Martina, fan de la programación, la tecnología y los videojuegos. Mi meta es seguir aprendiendo y aportar mi conocimiento a futuros proyectos. En este momento estoy metida en un bootcamp de Java para fortalecer mis habilidades en este lenguaje de programación. <br> Mi objetivo es dominarlo y aplicarlo en desafíos apasionantes. 👾 </p>
 
-## Mis habilidades 🛠️
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  
-## Contacto 📫
-Más abajo te dejo mi LinkedIn:
+<div align="center"> <h2> Mis habilidades 🛠️ </h2>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </div>
+<div align="center">
+  <h2>Contacto 📫</h2> 
+  <p>Mas abajo dejo mi linkedin:</p>
+</div>
 
-[![Icono de LinkedIn](https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png)](https://www.linkedin.com/in/martina-reta-7bb18b1b2/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/martina-reta-7bb18b1b2/">
+    <img src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-48x48.png" alt="Icono de LinkedIn">
+  </a>
+</p> <br>
 
-¡Gracias por visitar mi perfil! Espero que encuentres mis proyectos interesantes y útiles.
 <div align="center">
   <img src="https://media.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" alt="Animated GIF">
 </div>
