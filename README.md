@@ -4,7 +4,7 @@
 <p align="center">  Soy Martina, fan de la programación, la tecnología y los videojuegos.<br>Quiero seguir aprendiendo y aportar mi conocimiento a futuros proyectos.<br> En este momento estoy estudiando en un bootcamp de Java para fortalecer mis habilidades en este lenguaje de programación. <br> Mi objetivo es dominarlo y aplicarlo en desafíos apasionantes. 👾 </p>
 
 <div align="center">
-  <h2>Mis habilidades 🛠️</h2>
+  <h2>🛠️ Mis habilidades 🛠️</h2>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
