@@ -31,7 +31,7 @@
 </div>
 
 <div align="center">
-  <h2>Contacto 📫</h2> 
+  <h2>📫 Contacto 📫</h2> 
 <a href="https://www.linkedin.com/in/martina-reta-7bb18b1b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Mi LinkedIn"></a></p>
 </div>
 
