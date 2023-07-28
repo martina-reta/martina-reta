@@ -1,7 +1,7 @@
 <h1 align="center"> ¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
 
 <h2 align="center">⚡ Sobre mí ⚡ </h2>
-<p align="center">  Soy Martina, fan de la programación, la tecnología y los videojuegos.<br>Quiero seguir aprendiendo y aportar mi conocimiento a futuros proyectos.<br> En este momento estoy estudiando en un bootcamp de Java para fortalecer mis habilidades en este lenguaje de programación. <br> Mi objetivo es dominarlo y aplicarlo en desafíos apasionantes. 👾 </p>
+<p align="center">  Soy Martina, me gusta la tecnología y los videojuegos.<br>Quiero seguir aprendiendo y aportar mi conocimiento a futuros proyectos.<br> En este momento estoy estudiando en un bootcamp de Java de fundación Forge en conjunto con Coding Dojo para fortalecer mis habilidades en este lenguaje de programación. <br> Mi objetivo es dominarlo y aplicarlo en desafíos apasionantes. 👾 </p>
 
 <div align="center">
   <h2>🛠️ Mis habilidades 🛠️</h2>
