@@ -19,6 +19,10 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <div align="center">
   <h2>🛠️ Code Skills</h2>
   <p align="center">
