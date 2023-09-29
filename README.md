@@ -1,10 +1,26 @@
-<h1 align="center"> ¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
+<h3 align="center">About me</h3>
+<div>
 
-<h2 align="center">⚡ Sobre mí</h2>
-<p align="center">  Soy Martina, me gusta la tecnología y los videojuegos.<br>Quiero seguir aprendiendo y aportar mi conocimiento a futuros proyectos.<br> Me egresé del bootcamp de Java de fundación Forge en conjunto con Coding Dojo y cuento con sólidas habilidades en este lenguaje de programación y framework <br> Mi objetivo es aplicarlo en desafíos apasionantes. 👾 </p>
+```java
 
+import FullStack from 'martinaReta';
+
+class Bio extends Full-Stack Dev {
+  name = 'Martina Reta';
+  title = 'Full-Stack Dev';
+  education = 'Coding Dojo';
+  location = 'Buenos Aires, Argentina';
+}
+
+class Skills extends SoftwareDeveloper {
+  tools  = ['HTML', 'CSS', 'JavaScript', 'Java', 'Thymeleaf'];
+  databases  = ['MySQL'];
+  frameworks = ['Spring Boot'];
+}
+```
+</div>
 <div align="center">
-  <h2>🛠️ Mis habilidades</h2>
+  <h2>🛠️ Code Skills</h2>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/>
@@ -31,7 +47,7 @@
 </div>
 
 <div align="center">
-  <h2>📫 Contacto</h2> 
+  <h2>📫 Find me in</h2> 
 <a href="https://www.linkedin.com/in/martina-reta-7bb18b1b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Mi LinkedIn"></a></p>
 </div>
 
