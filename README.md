@@ -35,12 +35,6 @@
 <a href="https://www.linkedin.com/in/martina-reta-7bb18b1b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Mi LinkedIn"></a></p>
 </div>
 
-<div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
-</div>
-
 <div align="center">
   <img src="https://media.tenor.com/eT65efTNamoAAAAj/bonfire-darksouls.gif" alt="Animated GIF">
 </div>
