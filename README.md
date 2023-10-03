@@ -1,4 +1,9 @@
 <h3 align="center"> About me</h3>
+
+<div align="center">
+  <img src="https://cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6AQOQW7BAJCWHDFEH3WVFNWL64.jpg" width="863px" height="400px">
+</div>
+
 <div>
 
 ```java
