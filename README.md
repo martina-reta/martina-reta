@@ -13,7 +13,7 @@ class Bio extends Full-Stack Dev {
   location = 'Buenos Aires, Argentina';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends WebDeveloper {
   tools  = ['HTML', 'CSS', 'JavaScript', 'Java', 'Thymeleaf'];
   databases  = ['MySQL'];
   frameworks = ['Spring Boot'];
